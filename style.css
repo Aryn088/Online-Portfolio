@@ -192,8 +192,8 @@ nav.sticky .menu-btn {
   background-position: center;
   background-attachment: fixed;
   display: flex;
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
+  justify-content: center;
+  align-items: center;
   flex-direction: column;
 }
 
@@ -263,9 +263,9 @@ nav.sticky .menu-btn {
 }
 
 .row img {
-  width: 400px; /* Fixed width */
-  height: 200px; /* Fixed height for landscape orientation */
-  object-fit: cover; /* Maintain aspect ratio and cover container */
+  width: 400px; 
+  height: 200px;
+  object-fit: cover;
   border-radius: 8px;
   display: block;
   transition: transform 0.5s;
@@ -362,7 +362,7 @@ form textarea {
   background-position: center;
   background-attachment: fixed;
   display: flex;
-  justify-content: center; /* Center horizontally */
-  align-items: center; /* Center vertically */
+  justify-content: center; 
+  align-items: center;
   flex-direction: column;
 }
